@@ -2,3 +2,5 @@ Flask
 Flask-JWT-Extended
 Flask-RESTful
 Flask-SQLAlchemy
+Flask-Marshmalllow
+marshmallow>=3.6.1<3.7.0
